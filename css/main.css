@@ -21,6 +21,11 @@ body
     font-family: 'Ubuntu Mono';
 }
 
+.social img {
+    width: 40px;
+    background-color: #fff;
+}
+
 .brand .slogan {
     margin-top: -30px;
 }
