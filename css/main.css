@@ -18,7 +18,7 @@ body
 
 .brand {
     color: #FFBB00;
-    font-family: 'Fira mono';
+    font-family: 'Ubuntu Mono';
 }
 
 .brand .slogan {
@@ -30,14 +30,14 @@ body
 }
 
 h1, h2 {
-    font-family: 'Fira Mono', monospace;
+    font-family: 'Ubuntu Mono', monospace;
     font-size: 40px;
-    font-weight: 700;
+    font-weight: normal;
     color: #FFBE00;
 }
 
 h3, h4, h5, h6 {
-    font-family: 'Fira Mono', monospace;
+    font-family: 'Ubuntu Mono', monospace;
     color: #FFBE00;
     font-weight: 700;
 }
@@ -62,7 +62,7 @@ a:hover, a:active {
 
 code {
     font-size: 16px;
-    font-family: 'Fira Mono', monospace;
+    font-family: 'Ubuntu Mono', monospace;
 }
 
 ul {
