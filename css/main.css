@@ -76,6 +76,19 @@ ul {
    padding-bottom: 15px;
 }
 
+a.btn {
+  background: #ffbb00;
+  color: #234f8f;
+  font-size: 20px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+a.btn:hover {
+  background: #ff9000;
+  text-decoration: none;
+}
+
 /* Basic Grid */
 
 .grid {
